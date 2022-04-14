@@ -1,3 +1,4 @@
+// Two variables - nameFirst and nameLast
 var nameFirst = 'Anna'
 var nameLast = 'Spitz'
 
